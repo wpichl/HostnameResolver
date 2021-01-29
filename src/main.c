@@ -1,6 +1,6 @@
-#include<stdio.h> //printf
-#include<string.h> //memset
-#include<stdlib.h> //for exit(0);
+#include<stdio.h>
+#include<string.h>
+#include<stdlib.h>
 
 #include "resolve.h"
 
